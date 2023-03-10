@@ -1,0 +1,7 @@
+customtkinter==5.1.2
+Faker==17.5.0
+names==0.3.0
+pandas==1.4.3
+Pillow==9.4.0
+randomtimestamp==2.2
+tqdm==4.64.0
