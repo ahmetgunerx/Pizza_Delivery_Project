@@ -8,8 +8,6 @@ from tqdm import tqdm
 df = pd.read_csv("customers.csv")
 
 
-
-
 howmany = int(input("how many user data you want to create? --> "))
 
 
