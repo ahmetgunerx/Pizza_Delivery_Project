@@ -4,7 +4,6 @@ from randomtimestamp import randomtimestamp
 from tqdm import tqdm
 
 
-# username,address,ordered_pizza,ordered_sauce,total_amount,order_datetime,order_note
 customersdf = pd.read_csv("customers.csv")
 ordersdf = pd.read_csv("orders.csv")
 
